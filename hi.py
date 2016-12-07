@@ -1,5 +1,5 @@
 def main():
-    print("yo-yo")
+    print("oker")
 # ---eofunc---
     
 # Standard boilerplate calls main()
